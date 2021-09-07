@@ -1,4 +1,4 @@
-[test](https://github.com/Brave-troops/lhl.github.io/main/docs/test.md)
+[test](https://github.com/Brave-troops/Brave-troops.github.io/blob/main/docs/test.md)
 
 ## Welcome to GitHub Pages
 
