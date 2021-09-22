@@ -1,5 +1,5 @@
 [test](test.md)
-[test/hah](test/)
+[test/hah](test/hah.md)
 
 ## Welcome to GitHub Pages
 
